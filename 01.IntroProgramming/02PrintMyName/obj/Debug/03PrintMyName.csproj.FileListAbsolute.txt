@@ -1,0 +1,6 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\02PrintMyName\bin\Debug\02PrintMyName.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\02PrintMyName\obj\Debug\02PrintMyName.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\02PrintMyName\obj\Debug\02PrintMyName.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\02PrintMyName\bin\Debug\02PrintMyName.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\02PrintMyName\obj\Debug\02PrintMyName.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\02PrintMyName\obj\Debug\02PrintMyName.pdb

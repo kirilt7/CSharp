@@ -1,0 +1,10 @@
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\bin\Debug\03.StudentsFirstNameIsBeforeLast.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\bin\Debug\03.StudentsFirstNameIsBeforeLast.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\bin\Debug\03.StudentsFirstNameIsBeforeLast.pdb
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\obj\Debug\03.StudentsFirstNameIsBeforeLast.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\obj\Debug\03.StudentsFirstNameIsBeforeLast.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\bin\Debug\03.StudentsFirstNameIsBeforeLast.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\obj\Debug\03.StudentsFirstNameIsBeforeLast.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\obj\Debug\03.StudentsFirstNameIsBeforeLast.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\bin\Debug\03.StudentsFirstNameIsBeforeLast.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\03.StudentsFirstNameIsBeforeLast\bin\Debug\03.StudentsFirstNameIsBeforeLast.pdb

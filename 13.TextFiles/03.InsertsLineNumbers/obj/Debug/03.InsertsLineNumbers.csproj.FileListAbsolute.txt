@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\03.InsertsLineNumbers\bin\Debug\03.InsertsLineNumbers.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\03.InsertsLineNumbers\bin\Debug\03.InsertsLineNumbers.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\03.InsertsLineNumbers\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\03.InsertsLineNumbers\obj\Debug\03.InsertsLineNumbers.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\03.InsertsLineNumbers\obj\Debug\03.InsertsLineNumbers.pdb

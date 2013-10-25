@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\11.NumberToText\bin\Debug\11.NumberToText.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\11.NumberToText\bin\Debug\11.NumberToText.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\11.NumberToText\bin\Debug\11.NumberToText.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\11.NumberToText\obj\Debug\11.NumberToText.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\11.NumberToText\obj\Debug\11.NumberToText.pdb

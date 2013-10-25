@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\09.CircleAndRectangle\bin\Debug\09.CircleAndRectangle.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\09.CircleAndRectangle\bin\Debug\09.CircleAndRectangle.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\09.CircleAndRectangle\bin\Debug\09.CircleAndRectangle.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\09.CircleAndRectangle\obj\Debug\09.CircleAndRectangle.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\09.CircleAndRectangle\obj\Debug\09.CircleAndRectangle.pdb

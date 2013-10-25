@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\10.BonusScores\bin\Debug\10.BonusScores.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\10.BonusScores\obj\Debug\10.BonusScores.pdb

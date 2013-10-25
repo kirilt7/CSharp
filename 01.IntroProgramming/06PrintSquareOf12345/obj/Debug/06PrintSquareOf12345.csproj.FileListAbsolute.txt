@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06PrintSquareOf12345\bin\Debug\06PrintSquareOf12345.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06PrintSquareOf12345\bin\Debug\06PrintSquareOf12345.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06PrintSquareOf12345\bin\Debug\06PrintSquareOf12345.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06PrintSquareOf12345\obj\Debug\06PrintSquareOf12345.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06PrintSquareOf12345\obj\Debug\06PrintSquareOf12345.pdb

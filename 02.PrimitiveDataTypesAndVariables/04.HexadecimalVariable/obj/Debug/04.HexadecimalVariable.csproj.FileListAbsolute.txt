@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\04.HexadecimalVariable\bin\Debug\04.HexadecimalVariable.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\04.HexadecimalVariable\bin\Debug\04.HexadecimalVariable.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\04.HexadecimalVariable\bin\Debug\04.HexadecimalVariable.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\04.HexadecimalVariable\obj\Debug\04.HexadecimalVariable.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\04.HexadecimalVariable\obj\Debug\04.HexadecimalVariable.pdb

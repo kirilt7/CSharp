@@ -1,0 +1,9 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\12MyFutureAge\bin\Debug\12MyFutureAge.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\12MyFutureAge\bin\Debug\12MyFutureAge.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\12MyFutureAge\bin\Debug\12MyFutureAge.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\12MyFutureAge\obj\Debug\12MyFutureAge.csprojResolveAssemblyReference.cache
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\12MyFutureAge\obj\Debug\12MyFutureAge.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\12MyFutureAge\obj\Debug\12MyFutureAge.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\12MyFutureAge\bin\Debug\12MyFutureAge.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\12MyFutureAge\obj\Debug\12MyFutureAge.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\12MyFutureAge\obj\Debug\12MyFutureAge.pdb

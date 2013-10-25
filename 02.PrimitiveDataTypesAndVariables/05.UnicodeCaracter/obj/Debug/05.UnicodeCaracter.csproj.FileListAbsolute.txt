@@ -1,0 +1,8 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05.UnicodeCaracter\bin\Debug\05.UnicodeCaracter.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05.UnicodeCaracter\bin\Debug\05.UnicodeCaracter.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05.UnicodeCaracter\bin\Debug\05.UnicodeCaracter.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05.UnicodeCaracter\obj\Debug\05.UnicodeCaracter.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05.UnicodeCaracter\obj\Debug\05.UnicodeCaracter.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\05.UnicodeCaracter\bin\Debug\05.UnicodeCaracter.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\05.UnicodeCaracter\obj\Debug\05.UnicodeCaracter.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\05.UnicodeCaracter\obj\Debug\05.UnicodeCaracter.pdb

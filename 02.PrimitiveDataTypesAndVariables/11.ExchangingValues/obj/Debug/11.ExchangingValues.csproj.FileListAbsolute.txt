@@ -1,0 +1,10 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\11.ExchangingValues\bin\Debug\11.ExchangingValues.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\11.ExchangingValues\bin\Debug\11.ExchangingValues.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\11.ExchangingValues\bin\Debug\11.ExchangingValues.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\11.ExchangingValues\obj\Debug\11.ExchangingValues.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\11.ExchangingValues\obj\Debug\11.ExchangingValues.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\11.ExchangingValues\bin\Debug\11.ExchangingValues.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\11.ExchangingValues\obj\Debug\11.ExchangingValues.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\11.ExchangingValues\obj\Debug\11.ExchangingValues.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\11.ExchangingValues\bin\Debug\11.ExchangingValues.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\11.ExchangingValues\bin\Debug\11.ExchangingValues.pdb

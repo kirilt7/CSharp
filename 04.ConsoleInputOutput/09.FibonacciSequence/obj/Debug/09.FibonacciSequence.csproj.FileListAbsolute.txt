@@ -1,0 +1,6 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\09.FibonacciSequence\bin\Debug\09.FibonacciSequence.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\09.FibonacciSequence\bin\Debug\09.FibonacciSequence.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\09.FibonacciSequence\bin\Debug\09.FibonacciSequence.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\09.FibonacciSequence\obj\Debug\09.FibonacciSequence.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\09.FibonacciSequence\obj\Debug\09.FibonacciSequence.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\09.FibonacciSequence\obj\Debug\09.FibonacciSequence.csprojResolveAssemblyReference.cache

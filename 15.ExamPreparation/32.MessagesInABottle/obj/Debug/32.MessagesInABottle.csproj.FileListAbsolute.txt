@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\32.MessagesInABottle\bin\Debug\32.MessagesInABottle.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\32.MessagesInABottle\bin\Debug\32.MessagesInABottle.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\32.MessagesInABottle\bin\Debug\32.MessagesInABottle.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\32.MessagesInABottle\obj\Debug\32.MessagesInABottle.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\32.MessagesInABottle\obj\Debug\32.MessagesInABottle.pdb

@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03.CompareNumbers\bin\Debug\03.CompareNumbers.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03.CompareNumbers\bin\Debug\03.CompareNumbers.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03.CompareNumbers\bin\Debug\03.CompareNumbers.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03.CompareNumbers\obj\Debug\03.CompareNumbers.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03.CompareNumbers\obj\Debug\03.CompareNumbers.pdb

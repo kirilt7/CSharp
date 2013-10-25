@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\08.TrapezoidArea\bin\Debug\08.TrapezoidArea.pdb
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\08.TrapezoidArea\obj\Debug\08.TrapezoidArea.pdb

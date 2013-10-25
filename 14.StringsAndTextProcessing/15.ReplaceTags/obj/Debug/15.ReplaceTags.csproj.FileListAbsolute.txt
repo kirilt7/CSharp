@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\15.ReplaceTags\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\15.ReplaceTags\bin\Debug\15.ReplaceTags.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\15.ReplaceTags\obj\Debug\15.ReplaceTags.pdb

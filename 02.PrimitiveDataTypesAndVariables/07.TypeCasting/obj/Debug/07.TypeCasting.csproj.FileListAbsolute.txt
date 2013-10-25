@@ -1,0 +1,8 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07.TypeCasting\bin\Debug\07.TypeCasting.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07.TypeCasting\bin\Debug\07.TypeCasting.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07.TypeCasting\bin\Debug\07.TypeCasting.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07.TypeCasting\obj\Debug\07.TypeCasting.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07.TypeCasting\obj\Debug\07.TypeCasting.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\07.TypeCasting\bin\Debug\07.TypeCasting.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\07.TypeCasting\obj\Debug\07.TypeCasting.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\07.TypeCasting\obj\Debug\07.TypeCasting.pdb

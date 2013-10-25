@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\02.FloatAndDoubleVariables\bin\Debug\02.FloatAndDoubleVariables.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\02.FloatAndDoubleVariables\bin\Debug\02.FloatAndDoubleVariables.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\02.FloatAndDoubleVariables\bin\Debug\02.FloatAndDoubleVariables.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\02.FloatAndDoubleVariables\obj\Debug\02.FloatAndDoubleVariables.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\02.FloatAndDoubleVariables\obj\Debug\02.FloatAndDoubleVariables.pdb

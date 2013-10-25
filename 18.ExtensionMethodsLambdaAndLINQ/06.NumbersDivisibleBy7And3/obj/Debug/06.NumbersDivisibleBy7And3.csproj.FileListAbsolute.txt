@@ -1,0 +1,8 @@
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\06.NumbersDivisibleBy7And3\bin\Debug\06.NumbersDivisibleBy7And3.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\06.NumbersDivisibleBy7And3\bin\Debug\06.NumbersDivisibleBy7And3.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\06.NumbersDivisibleBy7And3\bin\Debug\06.NumbersDivisibleBy7And3.pdb
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\06.NumbersDivisibleBy7And3\obj\Debug\06.NumbersDivisibleBy7And3.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\06.NumbersDivisibleBy7And3\obj\Debug\06.NumbersDivisibleBy7And3.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\06.NumbersDivisibleBy7And3\bin\Debug\06.NumbersDivisibleBy7And3.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\06.NumbersDivisibleBy7And3\obj\Debug\06.NumbersDivisibleBy7And3.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\06.NumbersDivisibleBy7And3\obj\Debug\06.NumbersDivisibleBy7And3.pdb

@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05PrintCurrentDateAndTime\bin\Debug\05PrintCurrentDateAndTime.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05PrintCurrentDateAndTime\bin\Debug\05PrintCurrentDateAndTime.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05PrintCurrentDateAndTime\bin\Debug\05PrintCurrentDateAndTime.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05PrintCurrentDateAndTime\obj\Debug\05PrintCurrentDateAndTime.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\05PrintCurrentDateAndTime\obj\Debug\05PrintCurrentDateAndTime.pdb

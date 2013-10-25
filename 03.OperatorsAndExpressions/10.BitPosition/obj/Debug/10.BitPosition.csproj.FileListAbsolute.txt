@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\10.BitPosition\bin\Debug\10.BitPosition.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\10.BitPosition\bin\Debug\10.BitPosition.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\10.BitPosition\bin\Debug\10.BitPosition.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\10.BitPosition\obj\Debug\10.BitPosition.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\10.BitPosition\obj\Debug\10.BitPosition.pdb

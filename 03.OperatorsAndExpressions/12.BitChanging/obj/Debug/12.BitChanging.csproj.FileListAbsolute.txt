@@ -1,0 +1,6 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\12.BitChanging\bin\Debug\12.BitChanging.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\12.BitChanging\bin\Debug\12.BitChanging.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\12.BitChanging\bin\Debug\12.BitChanging.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\12.BitChanging\obj\Debug\12.BitChanging.csprojResolveAssemblyReference.cache
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\12.BitChanging\obj\Debug\12.BitChanging.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\12.BitChanging\obj\Debug\12.BitChanging.pdb

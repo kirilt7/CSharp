@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07FirstTenOfSequence\bin\Debug\07FirstTenOfSequence.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07FirstTenOfSequence\bin\Debug\07FirstTenOfSequence.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07FirstTenOfSequence\bin\Debug\07FirstTenOfSequence.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07FirstTenOfSequence\obj\Debug\07FirstTenOfSequence.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07FirstTenOfSequence\obj\Debug\07FirstTenOfSequence.pdb

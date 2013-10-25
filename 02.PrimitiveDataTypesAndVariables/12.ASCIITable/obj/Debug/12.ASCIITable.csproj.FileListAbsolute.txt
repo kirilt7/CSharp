@@ -1,0 +1,6 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\12.ASCIITable\bin\Debug\12.ASCIITable.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\12.ASCIITable\bin\Debug\12.ASCIITable.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\12.ASCIITable\bin\Debug\12.ASCIITable.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\12.ASCIITable\obj\Debug\12.ASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\12.ASCIITable\obj\Debug\12.ASCIITable.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\12.ASCIITable\obj\Debug\12.ASCIITable.pdb

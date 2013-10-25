@@ -1,0 +1,9 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07FirstTenOfSequence\bin\Debug\07FirstTenOfSequence.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07FirstTenOfSequence\obj\Debug\07FirstTenOfSequence.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\07FirstTenOfSequence\obj\Debug\07FirstTenOfSequence.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\07FirstTenOfSequence\bin\Debug\07FirstTenOfSequence.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\07FirstTenOfSequence\obj\Debug\07FirstTenOfSequence.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\07FirstTenOfSequence\obj\Debug\07FirstTenOfSequence.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\07FirstTenOfSequence\bin\Debug\07FirstTenOfSequence.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\07FirstTenOfSequence\bin\Debug\07FirstTenOfSequence.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\07FirstTenOfSequence\obj\Debug\09FirstTenOfSequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\bin\Debug\01MyFirstCSharpProgram.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\obj\Debug\01MyFirstCSharpProgram.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\obj\Debug\01MyFirstCSharpProgram.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\01MyFirstCSharpProgram\bin\Debug\01MyFirstCSharpProgram.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\01MyFirstCSharpProgram\obj\Debug\01MyFirstCSharpProgram.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\01MyFirstCSharpProgram\obj\Debug\01MyFirstCSharpProgram.pdb

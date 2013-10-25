@@ -1,0 +1,6 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\bin\Debug\01MyFirstCSharpProgram.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\obj\Debug\01MyFirstCSharpProgram.csprojResolveAssemblyReference.cache
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\bin\Debug\01MyFirstCSharpProgram.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\bin\Debug\01MyFirstCSharpProgram.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\obj\Debug\01MyFirstCSharpProgram.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\01MyFirstCSharpProgram\obj\Debug\01MyFirstCSharpProgram.pdb

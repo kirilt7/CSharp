@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\EmployeesRecord\bin\Debug\EmployeesRecord.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\EmployeesRecord\bin\Debug\EmployeesRecord.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\EmployeesRecord\bin\Debug\EmployeesRecord.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\EmployeesRecord\obj\Debug\EmployeesRecord.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\EmployeesRecord\obj\Debug\EmployeesRecord.pdb

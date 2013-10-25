@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\07.FibonacciSum\obj\Debug\07.FibonacciSum.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\07.FibonacciSum\obj\Debug\07.FibonacciSum.pdb

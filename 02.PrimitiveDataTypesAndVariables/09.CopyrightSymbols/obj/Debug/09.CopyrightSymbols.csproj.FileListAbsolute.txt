@@ -1,0 +1,8 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\09.CopyrightSymbols\bin\Debug\09.CopyrightSymbols.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\09.CopyrightSymbols\bin\Debug\09.CopyrightSymbols.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\09.CopyrightSymbols\bin\Debug\09.CopyrightSymbols.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\09.CopyrightSymbols\obj\Debug\09.CopyrightSymbols.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\Solution1\09.CopyrightSymbols\obj\Debug\09.CopyrightSymbols.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\09.CopyrightSymbols\bin\Debug\09.CopyrightSymbols.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\09.CopyrightSymbols\obj\Debug\09.CopyrightSymbols.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\02.PrimitiveDataTypesAndVariables\09.CopyrightSymbols\obj\Debug\09.CopyrightSymbols.pdb

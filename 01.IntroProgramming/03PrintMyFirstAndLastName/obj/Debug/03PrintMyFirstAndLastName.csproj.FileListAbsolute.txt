@@ -1,0 +1,1 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03PrintMyFirstAndLastName\bin\Debug\03PrintMyFirstAndLastName.exe.config

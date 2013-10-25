@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\01.IsLeap\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\01.IsLeap\bin\Debug\01.IsLeap.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\01.IsLeap\bin\Debug\01.IsLeap.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\01.IsLeap\obj\Debug\01.IsLeap.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\01.IsLeap\obj\Debug\01.IsLeap.pdb

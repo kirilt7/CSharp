@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\03.Rectangle\bin\Debug\03.Rectangle.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\03.Rectangle\bin\Debug\03.Rectangle.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\03.Rectangle\bin\Debug\03.Rectangle.pdb
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\03.Rectangle\obj\Debug\03.Rectangle.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\03.Rectangle\obj\Debug\03.Rectangle.pdb

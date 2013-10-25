@@ -1,0 +1,6 @@
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\07.PrimeNumber\bin\Debug\07.PrimeNumber.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\07.PrimeNumber\bin\Debug\07.PrimeNumber.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\07.PrimeNumber\bin\Debug\07.PrimeNumber.pdb
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\07.PrimeNumber\obj\Debug\07.PrimeNumber.csprojResolveAssemblyReference.cache
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\07.PrimeNumber\obj\Debug\07.PrimeNumber.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.OperatorsAndExpressions\07.PrimeNumber\obj\Debug\07.PrimeNumber.pdb

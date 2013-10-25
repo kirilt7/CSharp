@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\05.ThirdBit\bin\Debug\05.ThirdBit.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\05.ThirdBit\bin\Debug\05.ThirdBit.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\05.ThirdBit\bin\Debug\05.ThirdBit.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\05.ThirdBit\obj\Debug\05.ThirdBit.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\05.ThirdBit\obj\Debug\05.ThirdBit.pdb

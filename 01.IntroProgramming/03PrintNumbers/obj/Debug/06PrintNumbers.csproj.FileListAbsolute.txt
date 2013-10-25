@@ -1,0 +1,3 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03PrintNumbers\bin\Debug\03PrintNumbers.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03PrintNumbers\obj\Debug\03PrintNumbers.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03PrintNumbers\obj\Debug\03PrintNumbers.pdb

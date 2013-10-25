@@ -1,0 +1,6 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\03.InfoAboutCompany\bin\Debug\03.InfoAboutCompany.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\03.InfoAboutCompany\bin\Debug\03.InfoAboutCompany.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\03.InfoAboutCompany\bin\Debug\03.InfoAboutCompany.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\03.InfoAboutCompany\obj\Debug\03.InfoAboutCompany.csprojResolveAssemblyReference.cache
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\03.InfoAboutCompany\obj\Debug\03.InfoAboutCompany.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\03.InfoAboutCompany\obj\Debug\03.InfoAboutCompany.pdb

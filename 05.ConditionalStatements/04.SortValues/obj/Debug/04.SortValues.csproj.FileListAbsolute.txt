@@ -1,0 +1,6 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\04.SortValues\bin\Debug\04.SortValues.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\04.SortValues\bin\Debug\04.SortValues.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\04.SortValues\bin\Debug\04.SortValues.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\04.SortValues\obj\Debug\04.SortValues.csprojResolveAssemblyReference.cache
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\04.SortValues\obj\Debug\04.SortValues.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\04.SortValues\obj\Debug\04.SortValues.pdb

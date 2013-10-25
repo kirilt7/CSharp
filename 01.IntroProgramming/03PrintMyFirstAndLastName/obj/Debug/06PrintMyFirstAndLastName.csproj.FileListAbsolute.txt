@@ -1,0 +1,6 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03PrintMyFirstAndLastName\bin\Debug\03PrintMyFirstAndLastName.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03PrintMyFirstAndLastName\obj\Debug\03PrintMyFirstAndLastName.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\03PrintMyFirstAndLastName\obj\Debug\03PrintMyFirstAndLastName.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\03PrintMyFirstAndLastName\bin\Debug\03PrintMyFirstAndLastName.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\03PrintMyFirstAndLastName\obj\Debug\03PrintMyFirstAndLastName.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\01.IntroProgramming\03PrintMyFirstAndLastName\obj\Debug\03PrintMyFirstAndLastName.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\05.WorkdaysBetweenTodayAndGivenDate\bin\Debug\05.WorkdaysBetweenTodayAndGivenDate.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\05.WorkdaysBetweenTodayAndGivenDate\bin\Debug\05.WorkdaysBetweenTodayAndGivenDate.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\05.WorkdaysBetweenTodayAndGivenDate\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\05.WorkdaysBetweenTodayAndGivenDate\obj\Debug\05.WorkdaysBetweenTodayAndGivenDate.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\05.WorkdaysBetweenTodayAndGivenDate\obj\Debug\05.WorkdaysBetweenTodayAndGivenDate.pdb

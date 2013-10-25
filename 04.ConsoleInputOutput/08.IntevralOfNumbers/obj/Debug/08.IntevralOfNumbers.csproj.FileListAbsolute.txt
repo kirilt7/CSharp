@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\08.IntevralOfNumbers\bin\Debug\08.IntevralOfNumbers.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\08.IntevralOfNumbers\bin\Debug\08.IntevralOfNumbers.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\08.IntevralOfNumbers\bin\Debug\08.IntevralOfNumbers.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\08.IntevralOfNumbers\obj\Debug\08.IntevralOfNumbers.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\08.IntevralOfNumbers\obj\Debug\08.IntevralOfNumbers.pdb

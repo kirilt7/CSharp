@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\SumOfFractions\bin\Debug\SumOfFractions.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\SumOfFractions\bin\Debug\SumOfFractions.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\SumOfFractions\bin\Debug\SumOfFractions.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\SumOfFractions\obj\Debug\SumOfFractions.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\SumOfFractions\obj\Debug\SumOfFractions.pdb

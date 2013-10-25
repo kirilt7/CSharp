@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\11.NamesOfAllCards\bin\Debug\11.NamesOfAllCards.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\11.NamesOfAllCards\bin\Debug\11.NamesOfAllCards.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\11.NamesOfAllCards\bin\Debug\11.NamesOfAllCards.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\11.NamesOfAllCards\obj\Debug\11.NamesOfAllCards.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\11.NamesOfAllCards\obj\Debug\11.NamesOfAllCards.pdb

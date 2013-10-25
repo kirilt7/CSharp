@@ -1,0 +1,5 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\04.DevisionBy5Betweennumbers\bin\Debug\04.DevisionBy5Betweennumbers.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\04.DevisionBy5Betweennumbers\bin\Debug\04.DevisionBy5Betweennumbers.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\04.DevisionBy5Betweennumbers\bin\Debug\04.DevisionBy5Betweennumbers.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\04.DevisionBy5Betweennumbers\obj\Debug\04.DevisionBy5Betweennumbers.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\04.ConsoleInputOutput\04.DevisionBy5Betweennumbers\obj\Debug\04.DevisionBy5Betweennumbers.pdb

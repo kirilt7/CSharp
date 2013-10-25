@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\13.ReverseWordsInSentence\bin\Debug\13.ReverseWordsInSentence.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\13.ReverseWordsInSentence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\13.ReverseWordsInSentence\obj\Debug\13.ReverseWordsInSentence.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\13.ReverseWordsInSentence\obj\Debug\13.ReverseWordsInSentence.pdb

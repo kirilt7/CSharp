@@ -1,0 +1,9 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb
+D:\Downloads\01.Arrays\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+D:\Downloads\01.Arrays\01.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb
+D:\Downloads\01.Arrays\01.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+D:\Downloads\01.Arrays\01.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb

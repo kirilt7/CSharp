@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\06.SortTextFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\06.SortTextFile\bin\Debug\06.SortTextFile.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\06.SortTextFile\bin\Debug\06.SortTextFile.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\06.SortTextFile\obj\Debug\06.SortTextFile.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\06.SortTextFile\obj\Debug\06.SortTextFile.pdb

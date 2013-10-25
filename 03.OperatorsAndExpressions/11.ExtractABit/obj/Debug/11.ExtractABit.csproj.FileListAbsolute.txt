@@ -1,0 +1,6 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\11.ExtractABit\bin\Debug\11.ExtractABit.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\11.ExtractABit\bin\Debug\11.ExtractABit.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\11.ExtractABit\bin\Debug\11.ExtractABit.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\11.ExtractABit\obj\Debug\11.ExtractABit.csprojResolveAssemblyReference.cache
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\11.ExtractABit\obj\Debug\11.ExtractABit.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\03.OperatorsAndExpressions\11.ExtractABit\obj\Debug\11.ExtractABit.pdb

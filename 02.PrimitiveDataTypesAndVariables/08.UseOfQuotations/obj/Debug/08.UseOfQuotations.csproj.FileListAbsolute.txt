@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\08.UseOfQuotations\bin\Debug\08.UseOfQuotations.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\08.UseOfQuotations\obj\Debug\08.UseOfQuotations.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\08.UseOfQuotations\obj\Debug\08.UseOfQuotations.pdb

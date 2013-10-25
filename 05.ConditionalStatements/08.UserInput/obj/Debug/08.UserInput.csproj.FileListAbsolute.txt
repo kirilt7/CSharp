@@ -1,0 +1,6 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\08.UserInput\bin\Debug\08.UserInput.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\08.UserInput\bin\Debug\08.UserInput.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\08.UserInput\bin\Debug\08.UserInput.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\08.UserInput\obj\Debug\08.UserInput.csprojResolveAssemblyReference.cache
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\08.UserInput\obj\Debug\08.UserInput.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\05.ConditionalStatements\08.UserInput\obj\Debug\08.UserInput.pdb

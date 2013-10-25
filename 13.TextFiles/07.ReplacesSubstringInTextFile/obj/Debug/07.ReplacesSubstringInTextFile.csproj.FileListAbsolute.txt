@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\07.ReplacesSubstringInTextFile\bin\Debug\07.ReplacesSubstringInTextFile.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\07.ReplacesSubstringInTextFile\bin\Debug\07.ReplacesSubstringInTextFile.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\07.ReplacesSubstringInTextFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\07.ReplacesSubstringInTextFile\obj\Debug\07.ReplacesSubstringInTextFile.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\07.ReplacesSubstringInTextFile\obj\Debug\07.ReplacesSubstringInTextFile.pdb

@@ -1,0 +1,9 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\10.SequenceOfGivenSum\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.pdb
+D:\Downloads\01.Arrays\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.exe
+D:\Downloads\01.Arrays\01.Arrays\10.SequenceOfGivenSum\obj\Debug\10.SequenceOfGivenSum.pdb
+D:\Downloads\01.Arrays\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.exe
+D:\Downloads\01.Arrays\01.Arrays\10.SequenceOfGivenSum\bin\Debug\10.SequenceOfGivenSum.pdb

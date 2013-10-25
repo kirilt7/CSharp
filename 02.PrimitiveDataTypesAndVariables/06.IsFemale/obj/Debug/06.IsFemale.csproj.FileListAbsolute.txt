@@ -1,0 +1,5 @@
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06.IsFemale\bin\Debug\06.IsFemale.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06.IsFemale\bin\Debug\06.IsFemale.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06.IsFemale\bin\Debug\06.IsFemale.pdb
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06.IsFemale\obj\Debug\06.IsFemale.exe
+c:\users\cska\documents\visual studio 2012\Projects\Solution1\06.IsFemale\obj\Debug\06.IsFemale.pdb

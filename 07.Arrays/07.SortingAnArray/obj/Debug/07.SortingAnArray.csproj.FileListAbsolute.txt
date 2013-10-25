@@ -1,0 +1,10 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\07.SortingAnArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\07.SortingAnArray\bin\Debug\07.SortingAnArray.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\07.SortingAnArray\bin\Debug\07.SortingAnArray.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\07.SortingAnArray\obj\Debug\07.SortingAnArray.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\07.SortingAnArray\obj\Debug\07.SortingAnArray.pdb
+D:\Downloads\01.Arrays\01.Arrays\07.SortingAnArray\obj\Debug\07.SortingAnArray.exe
+D:\Downloads\01.Arrays\01.Arrays\07.SortingAnArray\obj\Debug\07.SortingAnArray.pdb
+D:\Downloads\01.Arrays\01.Arrays\07.SortingAnArray\bin\Debug\07.SortingAnArray.exe
+D:\Downloads\01.Arrays\01.Arrays\07.SortingAnArray\bin\Debug\07.SortingAnArray.pdb
+D:\Downloads\01.Arrays\01.Arrays\07.SortingAnArray\obj\Debug\07.SortingAnArray.csprojResolveAssemblyReference.cache

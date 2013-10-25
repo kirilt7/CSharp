@@ -1,0 +1,6 @@
+c:\users\cska\documents\visual studio 2012\Projects\05.ConditionalStatements\02.ProductOfThreeNumbers\bin\Debug\02.ProductOfThreeNumbers.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\05.ConditionalStatements\02.ProductOfThreeNumbers\bin\Debug\02.ProductOfThreeNumbers.exe
+c:\users\cska\documents\visual studio 2012\Projects\05.ConditionalStatements\02.ProductOfThreeNumbers\bin\Debug\02.ProductOfThreeNumbers.pdb
+c:\users\cska\documents\visual studio 2012\Projects\05.ConditionalStatements\02.ProductOfThreeNumbers\obj\Debug\02.ProductOfThreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\cska\documents\visual studio 2012\Projects\05.ConditionalStatements\02.ProductOfThreeNumbers\obj\Debug\02.ProductOfThreeNumbers.exe
+c:\users\cska\documents\visual studio 2012\Projects\05.ConditionalStatements\02.ProductOfThreeNumbers\obj\Debug\02.ProductOfThreeNumbers.pdb
