@@ -1,0 +1,5 @@
+C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\01. Defining classes - Part I\01. GSM\bin\Debug\_01.GSM.exe.config
+C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\01. Defining classes - Part I\01. GSM\bin\Debug\_01.GSM.exe
+C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\01. Defining classes - Part I\01. GSM\bin\Debug\_01.GSM.pdb
+C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\01. Defining classes - Part I\01. GSM\obj\Debug\_01.GSM.exe
+C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\01. Defining classes - Part I\01. GSM\obj\Debug\_01.GSM.pdb
