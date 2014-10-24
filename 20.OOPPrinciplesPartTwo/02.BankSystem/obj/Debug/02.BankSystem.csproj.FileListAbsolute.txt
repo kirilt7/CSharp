@@ -1,0 +1,6 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\02.BankSystem\bin\Debug\02.BankSystem.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\02.BankSystem\obj\Debug\02.BankSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\02.BankSystem\bin\Debug\02.BankSystem.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\02.BankSystem\bin\Debug\02.BankSystem.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\02.BankSystem\obj\Debug\02.BankSystem.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\02.BankSystem\obj\Debug\02.BankSystem.pdb

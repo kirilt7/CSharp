@@ -1,0 +1,5 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\21.CommonTypeSystem\04.Persons\bin\Debug\04.Persons.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\21.CommonTypeSystem\04.Persons\bin\Debug\04.Persons.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\21.CommonTypeSystem\04.Persons\bin\Debug\04.Persons.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\21.CommonTypeSystem\04.Persons\obj\Debug\04.Persons.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\21.CommonTypeSystem\04.Persons\obj\Debug\04.Persons.pdb

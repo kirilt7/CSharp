@@ -1,0 +1,7 @@
+D:\Downloads\1. HTML Renderer\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+D:\Downloads\1. HTML Renderer\bin\Debug\HTMLRenderer.exe
+D:\Downloads\1. HTML Renderer\bin\Debug\HTMLRenderer.pdb
+D:\Downloads\1. HTML Renderer\obj\Debug\HTMLRenderer.exe
+D:\Downloads\1. HTML Renderer\obj\Debug\HTMLRenderer.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\23.ExamPreparation\1. HTML Renderer\obj\Debug\HTMLRenderer.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\23.ExamPreparation\1. HTML Renderer\obj\Debug\HTMLRenderer.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\2. AcademyRPG\AcademyRPG\AcademyRPGFull\bin\Debug\AcademyRPGFull.exe.config
+D:\Downloads\2. AcademyRPG\AcademyRPG\AcademyRPGFull\obj\Debug\AcademyRPGFull.csprojResolveAssemblyReference.cache
+D:\Downloads\2. AcademyRPG\AcademyRPG\AcademyRPGFull\bin\Debug\AcademyRPGFull.exe
+D:\Downloads\2. AcademyRPG\AcademyRPG\AcademyRPGFull\bin\Debug\AcademyRPGFull.pdb
+D:\Downloads\2. AcademyRPG\AcademyRPG\AcademyRPGFull\obj\Debug\AcademyRPGFull.exe
+D:\Downloads\2. AcademyRPG\AcademyRPG\AcademyRPGFull\obj\Debug\AcademyRPGFull.pdb
