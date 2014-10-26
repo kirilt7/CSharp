@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\02.TenRandomValues\bin\Debug\02.TenRandomValues.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\02.TenRandomValues\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\02.TenRandomValues\obj\Debug\02.TenRandomValues.pdb

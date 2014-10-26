@@ -1,0 +1,10 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\01.MultipliedByFive\bin\Debug\01.MultipliedByFive.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\01.MultipliedByFive\bin\Debug\01.MultipliedByFive.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\01.MultipliedByFive\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\01.MultipliedByFive\obj\Debug\01.MultipliedByFive.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\01.MultipliedByFive\obj\Debug\01.MultipliedByFive.pdb
+D:\Downloads\01.Arrays\01.Arrays\01.MultipliedByFive\obj\Debug\01.MultipliedByFive.exe
+D:\Downloads\01.Arrays\01.Arrays\01.MultipliedByFive\obj\Debug\01.MultipliedByFive.pdb
+D:\Downloads\01.Arrays\01.Arrays\01.MultipliedByFive\bin\Debug\01.MultipliedByFive.exe
+D:\Downloads\01.Arrays\01.Arrays\01.MultipliedByFive\bin\Debug\01.MultipliedByFive.pdb
+D:\Downloads\01.Arrays\01.Arrays\01.MultipliedByFive\obj\Debug\01.MultipliedByFive.csprojResolveAssemblyReference.cache

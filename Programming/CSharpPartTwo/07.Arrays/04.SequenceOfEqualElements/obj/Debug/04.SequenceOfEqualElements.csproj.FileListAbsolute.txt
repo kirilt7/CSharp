@@ -1,0 +1,9 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\04.SequenceOfEqualElements\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\04.SequenceOfEqualElements\bin\Debug\04.SequenceOfEqualElements.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\04.SequenceOfEqualElements\bin\Debug\04.SequenceOfEqualElements.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\04.SequenceOfEqualElements\obj\Debug\04.SequenceOfEqualElements.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\04.SequenceOfEqualElements\obj\Debug\04.SequenceOfEqualElements.pdb
+D:\Downloads\01.Arrays\01.Arrays\04.SequenceOfEqualElements\obj\Debug\04.SequenceOfEqualElements.exe
+D:\Downloads\01.Arrays\01.Arrays\04.SequenceOfEqualElements\obj\Debug\04.SequenceOfEqualElements.pdb
+D:\Downloads\01.Arrays\01.Arrays\04.SequenceOfEqualElements\bin\Debug\04.SequenceOfEqualElements.exe
+D:\Downloads\01.Arrays\01.Arrays\04.SequenceOfEqualElements\bin\Debug\04.SequenceOfEqualElements.pdb

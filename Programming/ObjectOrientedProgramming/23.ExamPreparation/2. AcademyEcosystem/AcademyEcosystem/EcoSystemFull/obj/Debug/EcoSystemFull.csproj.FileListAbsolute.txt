@@ -1,0 +1,5 @@
+D:\Downloads\2. AcademyEcosystem\AcademyEcosystem\EcoSystemFull\bin\Debug\EcoSystemFull.exe.config
+D:\Downloads\2. AcademyEcosystem\AcademyEcosystem\EcoSystemFull\bin\Debug\EcoSystemFull.exe
+D:\Downloads\2. AcademyEcosystem\AcademyEcosystem\EcoSystemFull\bin\Debug\EcoSystemFull.pdb
+D:\Downloads\2. AcademyEcosystem\AcademyEcosystem\EcoSystemFull\obj\Debug\EcoSystemFull.exe
+D:\Downloads\2. AcademyEcosystem\AcademyEcosystem\EcoSystemFull\obj\Debug\EcoSystemFull.pdb

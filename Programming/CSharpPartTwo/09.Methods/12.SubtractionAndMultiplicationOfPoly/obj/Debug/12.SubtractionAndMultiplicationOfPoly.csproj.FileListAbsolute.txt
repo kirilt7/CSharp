@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\12.SubtractionAndMultiplicationOfPoly\bin\Debug\12.SubtractionAndMultiplicationOfPoly.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\12.SubtractionAndMultiplicationOfPoly\bin\Debug\12.SubtractionAndMultiplicationOfPoly.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\12.SubtractionAndMultiplicationOfPoly\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\12.SubtractionAndMultiplicationOfPoly\obj\Debug\12.SubtractionAndMultiplicationOfPoly.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\12.SubtractionAndMultiplicationOfPoly\obj\Debug\12.SubtractionAndMultiplicationOfPoly.pdb

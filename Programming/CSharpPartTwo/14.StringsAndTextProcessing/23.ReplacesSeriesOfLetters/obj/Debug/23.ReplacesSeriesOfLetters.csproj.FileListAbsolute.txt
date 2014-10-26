@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\23.ReplacesSeriesOfLetters\bin\Debug\23.ReplacesSeriesOfLetters.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\23.ReplacesSeriesOfLetters\bin\Debug\23.ReplacesSeriesOfLetters.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\23.ReplacesSeriesOfLetters\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\23.ReplacesSeriesOfLetters\obj\Debug\23.ReplacesSeriesOfLetters.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\23.ReplacesSeriesOfLetters\obj\Debug\23.ReplacesSeriesOfLetters.pdb

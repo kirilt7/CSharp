@@ -1,0 +1,6 @@
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\34.3DSlices\bin\Debug\34.3DSlices.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\34.3DSlices\bin\Debug\34.3DSlices.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\34.3DSlices\bin\Debug\34.3DSlices.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\34.3DSlices\obj\Debug\34.3DSlices.csprojResolveAssemblyReference.cache
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\34.3DSlices\obj\Debug\34.3DSlices.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\34.3DSlices\obj\Debug\34.3DSlices.pdb

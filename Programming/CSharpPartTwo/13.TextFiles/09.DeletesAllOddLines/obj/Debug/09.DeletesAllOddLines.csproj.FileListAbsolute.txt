@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\09.DeletesAllOddLines\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\09.DeletesAllOddLines\bin\Debug\09.DeletesAllOddLines.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\09.DeletesAllOddLines\bin\Debug\09.DeletesAllOddLines.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\09.DeletesAllOddLines\obj\Debug\09.DeletesAllOddLines.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\09.DeletesAllOddLines\obj\Debug\09.DeletesAllOddLines.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\05.HexaToBinary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\05.HexaToBinary\bin\Debug\05.HexaToBinary.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\05.HexaToBinary\bin\Debug\05.HexaToBinary.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\05.HexaToBinary\obj\Debug\05.HexaToBinary.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\05.HexaToBinary\obj\Debug\05.HexaToBinary.pdb

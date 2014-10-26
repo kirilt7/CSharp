@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\07.ArithmeticalExpressionSolving\bin\Debug\07.ArithmeticalExpressionSolving.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\07.ArithmeticalExpressionSolving\bin\Debug\07.ArithmeticalExpressionSolving.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\07.ArithmeticalExpressionSolving\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\07.ArithmeticalExpressionSolving\obj\Debug\07.ArithmeticalExpressionSolving.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\07.ArithmeticalExpressionSolving\obj\Debug\07.ArithmeticalExpressionSolving.pdb

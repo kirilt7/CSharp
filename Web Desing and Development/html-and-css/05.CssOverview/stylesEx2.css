@@ -1,0 +1,12 @@
+div {display:inline;
+}
+th {color:white;
+	background:green;
+}
+tbody > tr:nth-child(2n) {
+    background-color: #ececd8;
+}
+td, th {
+    padding: 5px;
+    text-align: left;
+}

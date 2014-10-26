@@ -1,0 +1,16 @@
+using System.IO;
+{
+    {
+        {
+                new StreamReader(@"..\..\..\Ex.txt");
+            {
+                int lineNumber = 1;
+                {
+                    {
+                    }
+                    lineNumber++;
+            }
+        catch (IOException ioex)
+
+        }
+    }

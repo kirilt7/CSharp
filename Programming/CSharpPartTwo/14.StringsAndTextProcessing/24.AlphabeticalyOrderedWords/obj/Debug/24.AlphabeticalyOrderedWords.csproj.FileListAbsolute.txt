@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\24.AlphabeticalyOrderedWords\bin\Debug\24.AlphabeticalyOrderedWords.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\24.AlphabeticalyOrderedWords\bin\Debug\24.AlphabeticalyOrderedWords.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\24.AlphabeticalyOrderedWords\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\24.AlphabeticalyOrderedWords\obj\Debug\24.AlphabeticalyOrderedWords.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\24.AlphabeticalyOrderedWords\obj\Debug\24.AlphabeticalyOrderedWords.pdb

@@ -1,0 +1,9 @@
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\05.SortStudents\bin\Debug\05.SortStudents.exe.config
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\05.SortStudents\obj\Debug\05.SortStudents.csprojResolveAssemblyReference.cache
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\05.SortStudents\bin\Debug\05.SortStudents.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\05.SortStudents\bin\Debug\05.SortStudents.pdb
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\05.SortStudents\obj\Debug\05.SortStudents.exe
+c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\05.SortStudents\obj\Debug\05.SortStudents.pdb
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\05.SortStudents\bin\Debug\05.SortStudents.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\05.SortStudents\obj\Debug\05.SortStudents.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\05.SortStudents\obj\Debug\05.SortStudents.pdb

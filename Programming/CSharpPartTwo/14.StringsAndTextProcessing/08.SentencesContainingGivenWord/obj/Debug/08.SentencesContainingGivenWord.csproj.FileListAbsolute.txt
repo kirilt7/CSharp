@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.SentencesContainingGivenWord\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.SentencesContainingGivenWord\bin\Debug\08.SentencesContainingGivenWord.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.SentencesContainingGivenWord\bin\Debug\08.SentencesContainingGivenWord.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.SentencesContainingGivenWord\obj\Debug\08.SentencesContainingGivenWord.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.SentencesContainingGivenWord\obj\Debug\08.SentencesContainingGivenWord.pdb

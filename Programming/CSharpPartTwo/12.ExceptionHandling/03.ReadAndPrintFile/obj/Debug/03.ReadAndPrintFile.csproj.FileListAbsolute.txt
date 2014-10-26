@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\03.ReadAndPrintFile\bin\Debug\03.ReadAndPrintFile.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\03.ReadAndPrintFile\bin\Debug\03.ReadAndPrintFile.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\03.ReadAndPrintFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\03.ReadAndPrintFile\obj\Debug\03.ReadAndPrintFile.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\03.ReadAndPrintFile\obj\Debug\03.ReadAndPrintFile.pdb

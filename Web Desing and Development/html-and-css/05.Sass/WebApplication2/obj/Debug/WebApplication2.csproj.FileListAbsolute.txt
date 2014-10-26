@@ -1,0 +1,4 @@
+c:\users\kiril\documents\visual studio 2012\Projects\05.Sass\WebApplication2\bin\WebApplication2.dll
+c:\users\kiril\documents\visual studio 2012\Projects\05.Sass\WebApplication2\bin\WebApplication2.pdb
+c:\users\kiril\documents\visual studio 2012\Projects\05.Sass\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\kiril\documents\visual studio 2012\Projects\05.Sass\WebApplication2\obj\Debug\WebApplication2.pdb

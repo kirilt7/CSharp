@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\01.PrintsOddLines\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\01.PrintsOddLines\bin\Debug\01.PrintsOddLines.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\01.PrintsOddLines\bin\Debug\01.PrintsOddLines.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\01.PrintsOddLines\obj\Debug\01.PrintsOddLines.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\01.PrintsOddLines\obj\Debug\01.PrintsOddLines.pdb

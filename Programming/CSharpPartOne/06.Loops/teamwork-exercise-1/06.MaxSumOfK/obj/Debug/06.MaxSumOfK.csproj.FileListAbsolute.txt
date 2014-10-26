@@ -1,0 +1,18 @@
+D:\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\bin\Debug\06.MaxSumOfK.exe.config
+D:\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\bin\Debug\06.MaxSumOfK.exe
+D:\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\bin\Debug\06.MaxSumOfK.pdb
+D:\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.csprojResolveAssemblyReference.cache
+D:\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.exe
+D:\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.pdb
+C:\Users\ddimeski\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\bin\Debug\06.MaxSumOfK.exe.config
+C:\Users\ddimeski\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.exe
+C:\Users\ddimeski\Documents\Telerik Academy\C# II\1.Arrays\Homework\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.pdb
+<<<<<<< .mine
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\teamwork-exercise-1\06.MaxSumOfK\bin\Debug\06.MaxSumOfK.exe.config
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\teamwork-exercise-1\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.exe
+C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\teamwork-exercise-1\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.pdb
+=======
+C:\Users\ddimeski\Documents\Telerik Academy\C# II\1.Arrays\SVN\06.MaxSumOfK\bin\Debug\06.MaxSumOfK.exe.config
+C:\Users\ddimeski\Documents\Telerik Academy\C# II\1.Arrays\SVN\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.exe
+C:\Users\ddimeski\Documents\Telerik Academy\C# II\1.Arrays\SVN\06.MaxSumOfK\obj\Debug\06.MaxSumOfK.pdb
+>>>>>>> .r4

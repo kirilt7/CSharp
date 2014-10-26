@@ -1,0 +1,5 @@
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\03.LastDigitOfGivenInteger\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\03.LastDigitOfGivenInteger\bin\Debug\03.LastDigitOfGivenInteger.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\03.LastDigitOfGivenInteger\bin\Debug\03.LastDigitOfGivenInteger.pdb
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\03.LastDigitOfGivenInteger\obj\Debug\03.LastDigitOfGivenInteger.exe
+C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\03.LastDigitOfGivenInteger\obj\Debug\03.LastDigitOfGivenInteger.pdb

@@ -1,0 +1,7 @@
+D:\Downloads\1. Software Academy\bin\Debug\SoftwareAcademy.exe
+D:\Downloads\1. Software Academy\bin\Debug\SoftwareAcademy.pdb
+D:\Downloads\1. Software Academy\obj\Debug\SoftwareAcademy.csprojResolveAssemblyReference.cache
+D:\Downloads\1. Software Academy\obj\Debug\SoftwareAcademy.exe
+D:\Downloads\1. Software Academy\obj\Debug\SoftwareAcademy.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\23.ExamPreparation\1. Software Academy\obj\Debug\SoftwareAcademy.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\23.ExamPreparation\1. Software Academy\obj\Debug\SoftwareAcademy.pdb
