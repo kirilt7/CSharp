@@ -1,1 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\03.DivisionOfFactorials\bin\Debug\03.DivisionOfFactorials.exe.config

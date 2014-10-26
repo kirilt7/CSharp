@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\04.NumberAppearsInGivenAarray\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\04.NumberAppearsInGivenAarray\bin\Debug\04.NumberAppearsInGivenAarray.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\04.NumberAppearsInGivenAarray\bin\Debug\04.NumberAppearsInGivenAarray.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\04.NumberAppearsInGivenAarray\obj\Debug\04.NumberAppearsInGivenAarray.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\04.NumberAppearsInGivenAarray\obj\Debug\04.NumberAppearsInGivenAarray.pdb

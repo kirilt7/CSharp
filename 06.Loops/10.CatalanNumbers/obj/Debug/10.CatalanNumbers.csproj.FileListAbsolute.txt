@@ -1,5 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\10.CatalanNumbers\bin\Debug\10.CatalanNumbers.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\10.CatalanNumbers\bin\Debug\10.CatalanNumbers.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\10.CatalanNumbers\bin\Debug\10.CatalanNumbers.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\10.CatalanNumbers\obj\Debug\10.CatalanNumbers.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\10.CatalanNumbers\obj\Debug\10.CatalanNumbers.pdb

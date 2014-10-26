@@ -1,6 +1,0 @@
-C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\02.DefiningClassesPartTwo\01.Point3D\bin\Debug\01.Point3D.exe.config
-C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\02.DefiningClassesPartTwo\01.Point3D\bin\Debug\01.Point3D.exe
-C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\02.DefiningClassesPartTwo\01.Point3D\bin\Debug\01.Point3D.pdb
-C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\02.DefiningClassesPartTwo\01.Point3D\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
-C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\02.DefiningClassesPartTwo\01.Point3D\obj\Debug\01.Point3D.exe
-C:\Users\Momchilovi\Documents\Visual Studio 2012\Projects\02.DefiningClassesPartTwo\01.Point3D\obj\Debug\01.Point3D.pdb

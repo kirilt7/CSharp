@@ -1,5 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\02GreedyDwarf\obj\Debug\02GreedyDwarf.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\02GreedyDwarf\obj\Debug\02GreedyDwarf.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\02GreedyDwarf\bin\Debug\02GreedyDwarf.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\02GreedyDwarf\bin\Debug\02GreedyDwarf.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\02GreedyDwarf\obj\Debug\02.GreedyDwarf.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.KukataIsDancing\bin\Debug\23.KukataIsDancing.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.KukataIsDancing\obj\Debug\23.KukataIsDancing.csprojResolveAssemblyReference.cache
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.KukataIsDancing\bin\Debug\23.KukataIsDancing.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.KukataIsDancing\bin\Debug\23.KukataIsDancing.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.KukataIsDancing\obj\Debug\23.KukataIsDancing.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.KukataIsDancing\obj\Debug\23.KukataIsDancing.pdb

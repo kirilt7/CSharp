@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\08.SumArrayDigits\bin\Debug\08.SumArrayDigits.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\08.SumArrayDigits\bin\Debug\08.SumArrayDigits.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\08.SumArrayDigits\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\08.SumArrayDigits\obj\Debug\08.SumArrayDigits.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\08.SumArrayDigits\obj\Debug\08.SumArrayDigits.pdb

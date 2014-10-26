@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\03.CheckBrackets\bin\Debug\03.CheckBrackets.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\03.CheckBrackets\bin\Debug\03.CheckBrackets.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\03.CheckBrackets\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\03.CheckBrackets\obj\Debug\03.CheckBrackets.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\03.CheckBrackets\obj\Debug\03.CheckBrackets.pdb

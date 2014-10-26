@@ -1,5 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\24.FTML\bin\Debug\24.FTML.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\24.FTML\bin\Debug\24.FTML.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\24.FTML\bin\Debug\24.FTML.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\24.FTML\obj\Debug\24.FTML.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\24.FTML\obj\Debug\24.FTML.pdb

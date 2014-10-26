@@ -1,5 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\03.MinAndMaxNumber\bin\Debug\03.MinAndMaxNumber.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\03.MinAndMaxNumber\obj\Debug\03.MinAndMaxNumber.pdb

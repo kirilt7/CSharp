@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\08.ReplaceWordsInTextFile\bin\Debug\08.ReplaceWordsInTextFile.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\08.ReplaceWordsInTextFile\bin\Debug\08.ReplaceWordsInTextFile.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\08.ReplaceWordsInTextFile\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\08.ReplaceWordsInTextFile\obj\Debug\08.ReplaceWordsInTextFile.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\08.ReplaceWordsInTextFile\obj\Debug\08.ReplaceWordsInTextFile.pdb

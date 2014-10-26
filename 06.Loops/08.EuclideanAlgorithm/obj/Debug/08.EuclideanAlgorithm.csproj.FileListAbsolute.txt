@@ -1,6 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\08.EuclideanAlgorithm\bin\Debug\08.EuclideanAlgorithm.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\08.EuclideanAlgorithm\obj\Debug\08.EuclideanAlgorithm.csprojResolveAssemblyReference.cache
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\08.EuclideanAlgorithm\obj\Debug\08.EuclideanAlgorithm.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\08.EuclideanAlgorithm\obj\Debug\08.EuclideanAlgorithm.pdb

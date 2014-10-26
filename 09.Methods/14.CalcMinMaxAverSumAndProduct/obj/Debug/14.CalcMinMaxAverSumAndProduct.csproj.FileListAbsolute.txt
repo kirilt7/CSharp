@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\14.CalcMinMaxAverSumAndProduct\bin\Debug\14.CalcMinMaxAverSumAndProduct.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\14.CalcMinMaxAverSumAndProduct\bin\Debug\14.CalcMinMaxAverSumAndProduct.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\14.CalcMinMaxAverSumAndProduct\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\14.CalcMinMaxAverSumAndProduct\obj\Debug\14.CalcMinMaxAverSumAndProduct.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\14.CalcMinMaxAverSumAndProduct\obj\Debug\14.CalcMinMaxAverSumAndProduct.pdb

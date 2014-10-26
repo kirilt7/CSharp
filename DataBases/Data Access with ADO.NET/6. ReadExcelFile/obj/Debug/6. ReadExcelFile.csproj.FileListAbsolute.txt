@@ -1,0 +1,4 @@
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\6. ReadExcelFile\bin\Debug\_6.ReadExcelFile.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\6. ReadExcelFile\bin\Debug\_6.ReadExcelFile.pdb
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\6. ReadExcelFile\obj\Debug\_6.ReadExcelFile.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\6. ReadExcelFile\obj\Debug\_6.ReadExcelFile.pdb

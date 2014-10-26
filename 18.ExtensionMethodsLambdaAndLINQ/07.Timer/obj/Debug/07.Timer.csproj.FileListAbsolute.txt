@@ -1,9 +1,0 @@
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\07.Timer\bin\Debug\07.Timer.exe.config
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\07.Timer\obj\Debug\07.Timer.csprojResolveAssemblyReference.cache
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\07.Timer\bin\Debug\07.Timer.exe
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\07.Timer\bin\Debug\07.Timer.pdb
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\07.Timer\obj\Debug\07.Timer.exe
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\07.Timer\obj\Debug\07.Timer.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\07.Timer\bin\Debug\07.Timer.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\07.Timer\obj\Debug\07.Timer.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\18.ExtensionMethodsLambdaAndLINQ\07.Timer\obj\Debug\07.Timer.pdb

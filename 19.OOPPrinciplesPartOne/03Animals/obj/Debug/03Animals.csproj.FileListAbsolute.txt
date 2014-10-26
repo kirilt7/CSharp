@@ -1,6 +1,0 @@
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\19.OOPPrinciplesPartOne\03Animals\bin\Debug\03Animals.exe.config
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\19.OOPPrinciplesPartOne\03Animals\obj\Debug\03Animals.csprojResolveAssemblyReference.cache
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\19.OOPPrinciplesPartOne\03Animals\bin\Debug\03Animals.exe
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\19.OOPPrinciplesPartOne\03Animals\bin\Debug\03Animals.pdb
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\19.OOPPrinciplesPartOne\03Animals\obj\Debug\03Animals.exe
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\19.OOPPrinciplesPartOne\03Animals\obj\Debug\03Animals.pdb

@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\09.ForbiddenWords\bin\Debug\09.ForbiddenWords.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\09.ForbiddenWords\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\09.ForbiddenWords\obj\Debug\09.ForbiddenWords.pdb

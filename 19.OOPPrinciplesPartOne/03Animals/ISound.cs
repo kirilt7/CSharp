@@ -1,4 +1,0 @@
-﻿interface ISound
-{
-    void MakeSound();
-}

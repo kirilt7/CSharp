@@ -1,0 +1,14 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\StudentSystem.Client.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\StudentSystem.Client.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\StudentSystem.Client.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\StudentSystem.Data.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\StudentSystem.Model.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\StudentSystem.Data.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\StudentSystem.Model.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\obj\Debug\StudentSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\obj\Debug\StudentSystem.Client.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Client\obj\Debug\StudentSystem.Client.pdb

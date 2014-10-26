@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\10.StringToUnicodeLiterals\bin\Debug\10.StringToUnicodeLiterals.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\10.StringToUnicodeLiterals\bin\Debug\10.StringToUnicodeLiterals.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\10.StringToUnicodeLiterals\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\10.StringToUnicodeLiterals\obj\Debug\10.StringToUnicodeLiterals.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\10.StringToUnicodeLiterals\obj\Debug\10.StringToUnicodeLiterals.pdb

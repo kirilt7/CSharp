@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\02.GetMax\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\02.GetMax\bin\Debug\02.GetMax.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\02.GetMax\bin\Debug\02.GetMax.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\02.GetMax\obj\Debug\02.GetMax.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\02.GetMax\obj\Debug\02.GetMax.pdb

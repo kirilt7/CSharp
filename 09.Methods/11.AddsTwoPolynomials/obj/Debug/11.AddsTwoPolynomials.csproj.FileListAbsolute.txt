@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\11.AddsTwoPolynomials\bin\Debug\11.AddsTwoPolynomials.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\11.AddsTwoPolynomials\bin\Debug\11.AddsTwoPolynomials.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\11.AddsTwoPolynomials\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\11.AddsTwoPolynomials\obj\Debug\11.AddsTwoPolynomials.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\11.AddsTwoPolynomials\obj\Debug\11.AddsTwoPolynomials.pdb

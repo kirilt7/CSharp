@@ -1,0 +1,10 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\bin\Debug\StudentSystem.Model.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\bin\Debug\StudentSystem.Model.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\obj\Debug\StudentSystem.Model.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\obj\Debug\StudentSystem.Model.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\obj\Debug\StudentSystem.Model.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\bin\Debug\StudentSystem.Model.dll.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\bin\Debug\EntityFramework.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\bin\Debug\EntityFramework.xml
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\EntityFramework\StudentSystemHomework\StudentSystem.Model\bin\Debug\EntityFramework.SqlServer.xml

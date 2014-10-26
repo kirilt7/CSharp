@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\01.CalcSquare\bin\Debug\01.CalcSquare.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\01.CalcSquare\bin\Debug\01.CalcSquare.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\01.CalcSquare\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\01.CalcSquare\obj\Debug\01.CalcSquare.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\01.CalcSquare\obj\Debug\01.CalcSquare.pdb

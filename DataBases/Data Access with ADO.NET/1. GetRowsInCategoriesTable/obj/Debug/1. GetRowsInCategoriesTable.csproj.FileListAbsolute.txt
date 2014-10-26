@@ -1,0 +1,5 @@
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\1. GetRowsInCategoriesTable\bin\Debug\_1.GetRowsInCategoriesTable.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\1. GetRowsInCategoriesTable\bin\Debug\_1.GetRowsInCategoriesTable.pdb
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\1. GetRowsInCategoriesTable\obj\Debug\1. GetRowsInCategoriesTable.csprojResolveAssemblyReference.cache
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\1. GetRowsInCategoriesTable\obj\Debug\_1.GetRowsInCategoriesTable.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\1. GetRowsInCategoriesTable\obj\Debug\_1.GetRowsInCategoriesTable.pdb

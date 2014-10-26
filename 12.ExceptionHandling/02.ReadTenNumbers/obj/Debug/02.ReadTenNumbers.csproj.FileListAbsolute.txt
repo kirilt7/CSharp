@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\02.ReadTenNumbers\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\02.ReadTenNumbers\bin\Debug\02.ReadTenNumbers.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\02.ReadTenNumbers\bin\Debug\02.ReadTenNumbers.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\02.ReadTenNumbers\obj\Debug\02.ReadTenNumbers.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\02.ReadTenNumbers\obj\Debug\02.ReadTenNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\9. Books\bin\Debug\_9.Books.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\9. Books\bin\Debug\_9.Books.pdb
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\9. Books\bin\Debug\MySql.Data.dll
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\9. Books\obj\Debug\9. Books.csprojResolveAssemblyReference.cache
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\9. Books\obj\Debug\_9.Books.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\9. Books\obj\Debug\_9.Books.pdb

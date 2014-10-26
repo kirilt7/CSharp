@@ -1,5 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\02.PrintNotDivisibleNumbers\bin\Debug\02.PrintNotDivisibleNumbers.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\02.PrintNotDivisibleNumbers\bin\Debug\02.PrintNotDivisibleNumbers.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\02.PrintNotDivisibleNumbers\bin\Debug\02.PrintNotDivisibleNumbers.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\02.PrintNotDivisibleNumbers\obj\Debug\02.PrintNotDivisibleNumbers.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\06.Loops\02.PrintNotDivisibleNumbers\obj\Debug\02.PrintNotDivisibleNumbers.pdb

@@ -1,0 +1,10 @@
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\bin\Debug\_1.GetNameDepartmentAndTown.exe.config
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\bin\Debug\_1.GetNameDepartmentAndTown.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\bin\Debug\_1.GetNameDepartmentAndTown.pdb
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\bin\Debug\EntityFramework.dll
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\bin\Debug\TelerikAcademyModel.dll
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\bin\Debug\TelerikAcademyModel.pdb
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\bin\Debug\EntityFramework.xml
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\obj\Debug\1. GetNameDepartmentAndTown.csprojResolveAssemblyReference.cache
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\obj\Debug\_1.GetNameDepartmentAndTown.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\1. GetNameDepartmentAndTown\obj\Debug\_1.GetNameDepartmentAndTown.pdb

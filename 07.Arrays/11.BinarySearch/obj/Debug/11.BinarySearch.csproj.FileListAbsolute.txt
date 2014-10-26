@@ -1,9 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\11.BinarySearch\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
-D:\Downloads\01.Arrays\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
-D:\Downloads\01.Arrays\01.Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb
-D:\Downloads\01.Arrays\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
-D:\Downloads\01.Arrays\01.Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb

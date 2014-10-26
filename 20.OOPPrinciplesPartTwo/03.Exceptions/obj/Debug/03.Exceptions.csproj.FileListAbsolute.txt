@@ -1,6 +1,0 @@
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\03.Exceptions\bin\Debug\03.Exceptions.exe.config
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\03.Exceptions\bin\Debug\03.Exceptions.exe
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\03.Exceptions\bin\Debug\03.Exceptions.pdb
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\03.Exceptions\obj\Debug\03.Exceptions.csprojResolveAssemblyReference.cache
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\03.Exceptions\obj\Debug\03.Exceptions.exe
-C:\Users\Kiril\Documents\Visual Studio 2012\Projects\20.OOPPrinciplesPartTwo\03.Exceptions\obj\Debug\03.Exceptions.pdb

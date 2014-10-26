@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\07.FromNumSysToOtherNumSys\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\07.FromNumSysToOtherNumSys\bin\Debug\07.FromNumSysToOtherNumSys.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\07.FromNumSysToOtherNumSys\bin\Debug\07.FromNumSysToOtherNumSys.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\07.FromNumSysToOtherNumSys\obj\Debug\07.FromNumSysToOtherNumSys.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\07.FromNumSysToOtherNumSys\obj\Debug\07.FromNumSysToOtherNumSys.pdb

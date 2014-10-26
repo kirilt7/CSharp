@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\08.BinaryRepresentationOfShort\bin\Debug\08.BinaryRepresentationOfShort.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\08.BinaryRepresentationOfShort\bin\Debug\08.BinaryRepresentationOfShort.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\08.BinaryRepresentationOfShort\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\08.BinaryRepresentationOfShort\obj\Debug\08.BinaryRepresentationOfShort.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\08.BinaryRepresentationOfShort\obj\Debug\08.BinaryRepresentationOfShort.pdb

@@ -1,6 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.Laser\bin\Debug\23.Laser.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.Laser\bin\Debug\23.Laser.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.Laser\bin\Debug\23.Laser.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.Laser\obj\Debug\13.Laser.csprojResolveAssemblyReference.cache
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.Laser\obj\Debug\23.Laser.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\15.ExamPreparation\23.Laser\obj\Debug\23.Laser.pdb

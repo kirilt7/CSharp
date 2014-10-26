@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\02.ConcatenatesTextFiles\bin\Debug\02.ConcatenatesTextFiles.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\02.ConcatenatesTextFiles\bin\Debug\02.ConcatenatesTextFiles.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\02.ConcatenatesTextFiles\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\02.ConcatenatesTextFiles\obj\Debug\02.ConcatenatesTextFiles.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\07.TextFiles\02.ConcatenatesTextFiles\obj\Debug\02.ConcatenatesTextFiles.pdb

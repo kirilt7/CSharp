@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\03.WhichDayIsToday\bin\Debug\03.WhichDayIsToday.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\03.WhichDayIsToday\bin\Debug\03.WhichDayIsToday.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\03.WhichDayIsToday\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\03.WhichDayIsToday\obj\Debug\03.WhichDayIsToday.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\05.ClassesAndObjects\03.WhichDayIsToday\obj\Debug\03.WhichDayIsToday.pdb

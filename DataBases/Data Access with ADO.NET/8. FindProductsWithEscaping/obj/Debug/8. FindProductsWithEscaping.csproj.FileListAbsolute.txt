@@ -1,0 +1,4 @@
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\8. FindProductsWithEscaping\bin\Debug\_8.FindProductsWithEscaping.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\8. FindProductsWithEscaping\bin\Debug\_8.FindProductsWithEscaping.pdb
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\8. FindProductsWithEscaping\obj\Debug\_8.FindProductsWithEscaping.exe
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Data Access with ADO.NET\8. FindProductsWithEscaping\obj\Debug\_8.FindProductsWithEscaping.pdb

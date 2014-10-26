@@ -1,9 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\03.ComparingCharArrays\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\03.ComparingCharArrays\bin\Debug\03.ComparingCharArrays.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\03.ComparingCharArrays\bin\Debug\03.ComparingCharArrays.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\03.ComparingCharArrays\obj\Debug\03.ComparingCharArrays.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\01.Arrays\03.ComparingCharArrays\obj\Debug\03.ComparingCharArrays.pdb
-D:\Downloads\01.Arrays\01.Arrays\03.ComparingCharArrays\obj\Debug\03.ComparingCharArrays.exe
-D:\Downloads\01.Arrays\01.Arrays\03.ComparingCharArrays\obj\Debug\03.ComparingCharArrays.pdb
-D:\Downloads\01.Arrays\01.Arrays\03.ComparingCharArrays\bin\Debug\03.ComparingCharArrays.exe
-D:\Downloads\01.Arrays\01.Arrays\03.ComparingCharArrays\bin\Debug\03.ComparingCharArrays.pdb

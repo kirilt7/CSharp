@@ -1,6 +1,0 @@
-D:\Downloads\01.Arrays\01.Arrays\20.Variations\bin\Debug\20.Variations.exe.config
-D:\Downloads\01.Arrays\01.Arrays\20.Variations\obj\Debug\20.Variations.csprojResolveAssemblyReference.cache
-D:\Downloads\01.Arrays\01.Arrays\20.Variations\bin\Debug\20.Variations.exe
-D:\Downloads\01.Arrays\01.Arrays\20.Variations\bin\Debug\20.Variations.pdb
-D:\Downloads\01.Arrays\01.Arrays\20.Variations\obj\Debug\20.Variations.exe
-D:\Downloads\01.Arrays\01.Arrays\20.Variations\obj\Debug\20.Variations.pdb

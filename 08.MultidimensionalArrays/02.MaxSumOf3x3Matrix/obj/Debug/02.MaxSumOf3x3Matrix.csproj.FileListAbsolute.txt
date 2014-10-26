@@ -1,5 +1,0 @@
-C:\Users\cska\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaxSumOf3x3Matrix\bin\Debug\02.MaxSumOf3x3Matrix.exe.config
-C:\Users\cska\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaxSumOf3x3Matrix\bin\Debug\02.MaxSumOf3x3Matrix.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaxSumOf3x3Matrix\bin\Debug\02.MaxSumOf3x3Matrix.pdb
-C:\Users\cska\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaxSumOf3x3Matrix\obj\Debug\02.MaxSumOf3x3Matrix.exe
-C:\Users\cska\Documents\Visual Studio 2012\Projects\08.MultidimensionalArrays\02.MaxSumOf3x3Matrix\obj\Debug\02.MaxSumOf3x3Matrix.pdb

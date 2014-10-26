@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\06.BinaryToHex\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\06.BinaryToHex\bin\Debug\06.BinaryToHex.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\06.BinaryToHex\obj\Debug\06.BinaryToHex.pdb

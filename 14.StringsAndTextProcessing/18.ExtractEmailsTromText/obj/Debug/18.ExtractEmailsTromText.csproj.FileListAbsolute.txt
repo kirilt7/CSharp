@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\18.ExtractEmailsTromText\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\18.ExtractEmailsTromText\bin\Debug\18.ExtractEmailsTromText.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\18.ExtractEmailsTromText\bin\Debug\18.ExtractEmailsTromText.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\18.ExtractEmailsTromText\obj\Debug\18.ExtractEmailsTromText.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\18.ExtractEmailsTromText\obj\Debug\18.ExtractEmailsTromText.pdb

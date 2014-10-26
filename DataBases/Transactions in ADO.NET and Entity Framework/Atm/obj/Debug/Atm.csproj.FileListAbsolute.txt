@@ -1,0 +1,1 @@
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Transactions in ADO.NET and Entity Framework\Atm\bin\Debug\Atm.exe.config

@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\06.FirstBiggerThanItsNeighbors\bin\Debug\06.FirstBiggerThanItsNeighbors.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\06.FirstBiggerThanItsNeighbors\bin\Debug\06.FirstBiggerThanItsNeighbors.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\06.FirstBiggerThanItsNeighbors\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\06.FirstBiggerThanItsNeighbors\obj\Debug\06.FirstBiggerThanItsNeighbors.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\02.Methods\06.FirstBiggerThanItsNeighbors\obj\Debug\06.FirstBiggerThanItsNeighbors.pdb

@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\bin\Debug\04.DownloadFileFromInternet.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\06.ExceptionHandling\04.DownloadFileFromInternet\obj\Debug\04.DownloadFileFromInternet.pdb

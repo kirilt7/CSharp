@@ -1,0 +1,8 @@
+C:\Users\Kiril\Desktop\databaseExaamPreparation1\JSONParse\JSONParse\bin\Debug\JSONParse.exe.config
+C:\Users\Kiril\Desktop\databaseExaamPreparation1\JSONParse\JSONParse\bin\Debug\JSONParse.exe
+C:\Users\Kiril\Desktop\databaseExaamPreparation1\JSONParse\JSONParse\bin\Debug\JSONParse.pdb
+C:\Users\Kiril\Desktop\databaseExaamPreparation1\JSONParse\JSONParse\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kiril\Desktop\databaseExaamPreparation1\JSONParse\JSONParse\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kiril\Desktop\databaseExaamPreparation1\JSONParse\JSONParse\obj\Debug\JSONParse.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Desktop\databaseExaamPreparation1\JSONParse\JSONParse\obj\Debug\JSONParse.exe
+C:\Users\Kiril\Desktop\databaseExaamPreparation1\JSONParse\JSONParse\obj\Debug\JSONParse.pdb

@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\02.BinaryToDecimal\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\03.NumeralSystems\02.BinaryToDecimal\obj\Debug\02.BinaryToDecimal.pdb

@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.StringOf20Characters\obj\Debug\08.StringOf20Characters.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.StringOf20Characters\obj\Debug\08.StringOf20Characters.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.StringOf20Characters\bin\Debug\08.StringOf20Characters.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.StringOf20Characters\bin\Debug\08.StringOf20Characters.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\08.StringOf20Characters\obj\Debug\ResolveAssemblyReference.cache

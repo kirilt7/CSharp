@@ -1,0 +1,8 @@
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\TelerikAcademyModel\bin\Debug\TelerikAcademyModel.dll.config
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\TelerikAcademyModel\bin\Debug\TelerikAcademyModel.dll
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\TelerikAcademyModel\bin\Debug\TelerikAcademyModel.pdb
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\TelerikAcademyModel\bin\Debug\EntityFramework.dll
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\TelerikAcademyModel\bin\Debug\EntityFramework.xml
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\TelerikAcademyModel\obj\Debug\TelerikAcademyModel.csprojResolveAssemblyReference.cache
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\TelerikAcademyModel\obj\Debug\TelerikAcademyModel.dll
+D:\Downloads\Telerik-Academy-Homeworks-master\Telerik-Academy-Homeworks-master\Databases\Entity Framework Performance\TelerikAcademyModel\obj\Debug\TelerikAcademyModel.pdb

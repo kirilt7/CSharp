@@ -1,6 +1,0 @@
-D:\Downloads\01.Arrays\01.Arrays\14.quickort\bin\Debug\14.quickort.exe.config
-D:\Downloads\01.Arrays\01.Arrays\14.quickort\bin\Debug\14.quickort.exe
-D:\Downloads\01.Arrays\01.Arrays\14.quickort\bin\Debug\14.quickort.pdb
-D:\Downloads\01.Arrays\01.Arrays\14.quickort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache
-D:\Downloads\01.Arrays\01.Arrays\14.quickort\obj\Debug\14.quickort.exe
-D:\Downloads\01.Arrays\01.Arrays\14.quickort\obj\Debug\14.quickort.pdb

@@ -1,6 +1,0 @@
-D:\Downloads\01.Arrays\01.Arrays\21.Combinations\bin\Debug\21.Combinations.exe.config
-D:\Downloads\01.Arrays\01.Arrays\21.Combinations\bin\Debug\21.Combinations.exe
-D:\Downloads\01.Arrays\01.Arrays\21.Combinations\bin\Debug\21.Combinations.pdb
-D:\Downloads\01.Arrays\01.Arrays\21.Combinations\obj\Debug\21.Combinations.exe
-D:\Downloads\01.Arrays\01.Arrays\21.Combinations\obj\Debug\21.Combinations.pdb
-D:\Downloads\01.Arrays\01.Arrays\21.Combinations\obj\Debug\21.Combinations.csprojResolveAssemblyReference.cache

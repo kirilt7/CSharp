@@ -1,0 +1,46 @@
+1. 
+- Hierarchical  (tree)
+- Network / graph
+- Relational (table)
+- Object-oriented
+
+2. 
+- Creating / altering / deleting tables and relationships between them (database schema)
+- Adding, changing, deleting, searching and retrieving of data stored in the tables
+
+3. Table - a collection of related data held in a structured format within a database. It consists of columns and rows.
+
+4. Primary key is a column of the table that uniquely identifies its rows, foreign key is an identifier of a record located in another table (usually its primary key).
+
+5. 
+- Relationship one-to-many - a single record in the first table has many corresponding records in the second table.
+- Relationship many-to-many - records in the first table have many correspon-ding records in the second one and vice versa.
+- Relationship one-to-one - a single record in a table corresponds to a single record in the other table.
+
+6. Database schema is normalized when there are repeating data in the tables. The advantage of normalized databases is minimizing redundancy.
+
+7. Integrity constraints ensure data integrity in the database tables. 
+
+8.
+- pros - speed up searching of values in a certain column or group of columns
+- cons -Adding and deleting records in indexed tables is slower
+
+9. SQL language main purpose is manipulation of relational databases.
+
+10. Transactions are a sequence of database operations which are executed as a single unit. Example: A bank transfer from one account into another (withdrawal + deposit)
+
+11. NoSQL provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. NoSQL databases are increasingly used in big data and real-time web applications. 
+
+12. 
+- Document model - set of documents, e.g. JSON strings
+- Key-value model - set of key-value pairs
+- Hierarchical key-value - hierarchy of key-value pairs
+- Wide-column model - key-value model with schema
+- Object model - set of OOP-style objects
+
+13. Redis, MongoDB, CouchDB, Cassandra.
+- pros - great performance and scalability
+- cons - they are designed primarily for storage, and offer very little functionality beyond. When transactions enter the equation, relational databases are still the better choice
+
+
+

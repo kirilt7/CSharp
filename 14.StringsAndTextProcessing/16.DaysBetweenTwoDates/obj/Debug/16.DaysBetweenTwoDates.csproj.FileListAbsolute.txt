@@ -1,5 +1,0 @@
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\16.DaysBetweenTwoDates\bin\Debug\16.DaysBetweenTwoDates.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\16.DaysBetweenTwoDates\bin\Debug\16.DaysBetweenTwoDates.pdb
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\16.DaysBetweenTwoDates\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\16.DaysBetweenTwoDates\obj\Debug\16.DaysBetweenTwoDates.exe
-C:\Documents and Settings\Kiril\My Documents\Visual Studio 2008\Projects\08.StringsAndTextProcessing\16.DaysBetweenTwoDates\obj\Debug\16.DaysBetweenTwoDates.pdb

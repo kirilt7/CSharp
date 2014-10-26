@@ -1,6 +1,0 @@
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\4.StudentsBetween18And24\bin\Debug\4.StudentsBetween18And24.exe.config
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\4.StudentsBetween18And24\obj\Debug\4.StudentsBetween18And24.csprojResolveAssemblyReference.cache
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\4.StudentsBetween18And24\bin\Debug\4.StudentsBetween18And24.exe
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\4.StudentsBetween18And24\bin\Debug\4.StudentsBetween18And24.pdb
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\4.StudentsBetween18And24\obj\Debug\4.StudentsBetween18And24.exe
-c:\users\cska\documents\visual studio 2012\Projects\03.ExtensionMethodsLambdaAndLINQ\4.StudentsBetween18And24\obj\Debug\4.StudentsBetween18And24.pdb
