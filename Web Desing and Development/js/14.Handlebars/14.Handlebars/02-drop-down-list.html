@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script id="list-template" type='text/x-handlebars-template'>
+        <select>
+            {{#items}}
+            <option value='{{value}}'>{{text}}</option>
+            {{/items}}
+        </select>
+	</script>
+    <script src="scripts/handlebars.min.js"></script>
+    <script src="scripts/02-drop-down-list.js"></script>
+</body>
+</html>

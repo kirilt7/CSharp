@@ -1,0 +1,5 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\09.SVG\09.SVG\bin\09.SVG.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\09.SVG\09.SVG\bin\09.SVG.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\09.SVG\09.SVG\obj\Debug\09.SVG.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\09.SVG\09.SVG\obj\Debug\09.SVG.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\09.SVG\09.SVG\obj\Debug\09.SVG.pdb

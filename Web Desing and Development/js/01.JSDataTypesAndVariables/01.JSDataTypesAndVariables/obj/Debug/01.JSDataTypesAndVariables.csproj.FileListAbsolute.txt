@@ -1,0 +1,5 @@
+c:\Users\Kiril\Documents\Visual Studio 2012\Projects\01.JSDataTypesAndVariables\01.JSDataTypesAndVariables\bin\01.JSDataTypesAndVariables.dll
+c:\Users\Kiril\Documents\Visual Studio 2012\Projects\01.JSDataTypesAndVariables\01.JSDataTypesAndVariables\bin\01.JSDataTypesAndVariables.pdb
+c:\Users\Kiril\Documents\Visual Studio 2012\Projects\01.JSDataTypesAndVariables\01.JSDataTypesAndVariables\obj\Debug\01.JSDataTypesAndVariables.csprojResolveAssemblyReference.cache
+c:\Users\Kiril\Documents\Visual Studio 2012\Projects\01.JSDataTypesAndVariables\01.JSDataTypesAndVariables\obj\Debug\01.JSDataTypesAndVariables.dll
+c:\Users\Kiril\Documents\Visual Studio 2012\Projects\01.JSDataTypesAndVariables\01.JSDataTypesAndVariables\obj\Debug\01.JSDataTypesAndVariables.pdb

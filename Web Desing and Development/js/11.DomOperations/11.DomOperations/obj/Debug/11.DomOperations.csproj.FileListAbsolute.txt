@@ -1,0 +1,5 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\11.DomOperations\11.DomOperations\bin\11.DomOperations.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\11.DomOperations\11.DomOperations\bin\11.DomOperations.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\11.DomOperations\11.DomOperations\obj\Debug\11.DomOperations.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\11.DomOperations\11.DomOperations\obj\Debug\11.DomOperations.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\11.DomOperations\11.DomOperations\obj\Debug\11.DomOperations.pdb

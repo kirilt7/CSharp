@@ -1,0 +1,5 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\10.Animations\10.Animations\bin\10.Animations.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\10.Animations\10.Animations\bin\10.Animations.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\10.Animations\10.Animations\obj\Debug\10.Animations.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\10.Animations\10.Animations\obj\Debug\10.Animations.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\10.Animations\10.Animations\obj\Debug\10.Animations.pdb

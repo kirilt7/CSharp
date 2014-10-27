@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src='scripts/underscore.js'></script>
+    <script type="text/javascript" src='scripts/student.js'></script>
+    <script type="text/javascript" src='scripts/animal.js'></script>
+    <script type="text/javascript" src='scripts/book.js'></script>
+
+
+
+</head>
+<body>
+        <script>
+
+            var students = [];
+                students.push(new Student('Pesho', 'Peshev', 22, [2, 3, 4, 5]))
+                students.push(new Student('Atanas', 'Nikolov', 33, [2, 6, 4, 5]));
+                students.push(new Student('Ivan', 'Ivanov', 44, [2, 3, 4, 5, 6]));
+                students.push(new Student('Stefan', 'Iliev', 55, [3, 4, 5]));
+                students.push(new Student('Georgi', 'Petrov', 66, [5, 6]));
+                students.push(new Student('Kiril', 'Stefanov', 77, [3, 4]));
+                students.push(new Student('Ivaylo', 'Georgiev', 88, [3, 4, 5, 5]));
+                students.push(new Student('Nikolay', 'Ivanov', 99, [3, 4, 5, 3]));
+                students.push(new Student('Jordan', 'Todorov', 23, [5, 6, 6]));
+
+            var animals = [];
+                animals.push(new Animal('wolf', 'mammal', 4));
+                animals.push(new Animal('cat', 'mammal', 4));
+                animals.push(new Animal('eagle', 'bird', 2));
+                animals.push(new Animal('dove', 'bird', 2));
+                animals.push(new Animal('scorpion', 'arachnid', 8));
+                animals.push(new Animal('cow', 'mammal', 4));
+                animals.push(new Animal('bull', 'mammal', 4));
+                animals.push(new Animal('shark', 'fish', 0));
+                animals.push(new Animal('dog', 'mammal', 4));
+
+            var books = [];
+                books.push(new Book('The Count of Monte Christo', 'AlexandreDumas'));
+                books.push(new Book('Anna Karenina', 'Leo Tolstoy'));
+                books.push(new Book('Macbeth', 'William Shakespeare'));
+                books.push(new Book('Oliver Twist', 'Charles Dickens'));
+                books.push(new Book('Emma', 'Jane Austen'));
+                books.push(new Book('The Three Musketeers', 'AlexandreDumas'));
+                books.push(new Book('King Lear', 'William Shakespeare'));
+                books.push(new Book('A Midsummer Nights Dream', 'William Shakespeare'));
+
+            //Task 01.
+            var firstBeforeSecondName = function (students) {
+                var result = _.chain(students)
+                        .filter(function (student) {
+                            return student.firstname <student.lastname;})
+                        .sortBy(function (student) {
+                            return student.lastname;})
+                        .reverse()
+                        .value();
+                return result;
+            }
+
+            var printStudents = function printStudents(students) {
+                _.each(students, function(student){
+                    console.log(student.firstname + ' ' + student.lastname);
+                })
+            }
+
+            console.log('Students with first name before last: ')
+            printStudents(firstBeforeSecondName(students));
+
+
+            //Task 02.
+            var between18and24 = function (students) {
+                var result = _.filter(students, function (student) {
+                    return (student.age >= 18 && student.age <=24);
+                })
+                return result;
+            }
+
+            console.log();
+            console.log('Students with age between 18 and 24: ')
+            printStudents(between18and24(students));
+
+            //Task 03.
+            var findstudentWithHighestMarks = function (students) {
+                var result = _.max(students, function (student) {
+                            var sum = 0;
+                            var length = 0;
+                                _.each(student.marks, function (mark) {
+                                    sum += mark;
+                                    length++;
+                                })
+
+                            return sum / length;
+                        })
+                return result;
+            }
+
+            console.log();
+            console.log('Student with highest marks: ')
+            var studentWithHighestMarks = findstudentWithHighestMarks(students)
+            console.log(studentWithHighestMarks.firstname + ' ' + studentWithHighestMarks.lastname);
+
+            //Task 04.
+            var groupAnimalsBySpecies = function (animals) {
+                var result = _.groupBy(animals, 'species');
+                return result;
+            }
+
+            console.log();
+            console.log('Animals by spieces: ');
+            console.log(groupAnimalsBySpecies(animals));
+
+            //Task 05.
+            var totalLegs = function (animals) {
+                var result = 0;
+                _.each(animals, function (animal) {
+                    result+=animal.legsCount;
+                })
+                return result;
+            }
+
+            console.log('Total number of legs: ')
+            console.log(totalLegs(animals));
+
+            //Task 06.
+            var mostPopularAuthor = function (books) {
+                var mostFamousBooks = _.groupBy(books, 'author');
+                mostFamousBooks = _.sortBy(mostFamousBooks, function (g) { return -g.length });
+                return _.first(mostFamousBooks)[0].author;
+
+            }
+            console.log('The most famous author is: ')
+            console.log(mostPopularAuthor(books));
+        </script>
+</body>
+</html>

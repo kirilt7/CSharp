@@ -1,0 +1,4 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\12.EventModel\12.EventModel\bin\12.EventModel.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\12.EventModel\12.EventModel\bin\12.EventModel.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\12.EventModel\12.EventModel\obj\Debug\12.EventModel.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\12.EventModel\12.EventModel\obj\Debug\12.EventModel.pdb

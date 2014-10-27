@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>My SPA application</title>
+    <link rel="stylesheet" type="text/css" href="styles/style.css">
+    <script src="scripts/jquery-2.0.3.js"></script>
+</head>
+<body>
+<p>This app will only show the last 50 messages. It refreshes automaticaly every 5 seconds, and every time you post a message.</p>
+<div id="wrapper">
+    <div id="content">
+        <ul id="messages-list">
+            Hallo World!
+        </ul>
+    </div>
+    <label for="username-input">Username: </label>
+    <input id="username-input" value="Anonymous" placeholder="username" />
+    <br/>
+    <label for="chat-input">Message: </label>
+    <input id="chat-input" placeholder="write a message" />
+    <button id="send-btn">SEND</button>
+</div>
+<script src="scripts/remote-controller.js"></script>
+<script src="scripts/main.js"></script>
+</body>
+</html>

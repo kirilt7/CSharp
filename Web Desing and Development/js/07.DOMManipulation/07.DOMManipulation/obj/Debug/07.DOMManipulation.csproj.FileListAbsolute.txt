@@ -1,0 +1,5 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\07.DOMManipulation\07.DOMManipulation\bin\07.DOMManipulation.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\07.DOMManipulation\07.DOMManipulation\bin\07.DOMManipulation.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\07.DOMManipulation\07.DOMManipulation\obj\Debug\07.DOMManipulation.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\07.DOMManipulation\07.DOMManipulation\obj\Debug\07.DOMManipulation.dll
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\JS\07.DOMManipulation\07.DOMManipulation\obj\Debug\07.DOMManipulation.pdb
