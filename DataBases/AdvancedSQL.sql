@@ -1,4 +1,4 @@
-Task1----------------------------------------------------------------------
+--Task1----------------------------------------------------------------------
 
 SELECT FirstName + ' ' + LastName AS Name, Salary
 FROM Employees
@@ -6,7 +6,7 @@ WHERE Salary =
   (SELECT MIN(Salary)
    FROM Employees)
 
-Task2----------------------------------------------------------------------
+--Task2----------------------------------------------------------------------
 
 SELECT FirstName + ' ' + LastName AS Name, Salary
 FROM Employees
@@ -14,7 +14,7 @@ WHERE Salary <
   (SELECT MIN(Salary)*1.1
    FROM Employees)
 
-Task3----------------------------------------------------------------------
+--Task3----------------------------------------------------------------------
 
 SELECT e.LastName, e.Salary, d.Name
 FROM Employees e
@@ -24,13 +24,13 @@ WHERE Salary =
 	 FROM Employees
 	 WHERE DepartmentID = d.DepartmentID)
 
-Task4----------------------------------------------------------------------
+--Task4----------------------------------------------------------------------
 
 SELECT AVG(Salary) AS [Averrage Salary]
 FROM Employees
 WHERE DepartmentID = 1
 
-Task5----------------------------------------------------------------------
+--Task5----------------------------------------------------------------------
 
 SELECT AVG(Salary) AS [Averrage Salary]
 FROM Employees
@@ -38,7 +38,7 @@ WHERE DepartmentID =
 	(SELECT DepartmentID FROM Departments
    WHERE Name='Sales')
 
-Task6----------------------------------------------------------------------
+--Task6----------------------------------------------------------------------
 
 SELECT COUNT(FirstName) AS [Number of employees]
 FROM Employees
@@ -46,19 +46,19 @@ WHERE DepartmentID =
 	(SELECT DepartmentID FROM Departments
    WHERE Name='Sales')
 
-Task7----------------------------------------------------------------------
+--Task7----------------------------------------------------------------------
 
 SELECT COUNT(FirstName) AS [Number of employees]
 FROM Employees
 WHERE ManagerID IS NOT NULL
 
-Task8----------------------------------------------------------------------
+--Task8----------------------------------------------------------------------
 
 SELECT COUNT(FirstName) AS [Number of employees]
 FROM Employees
 WHERE ManagerID IS NULL
 
-Task9----------------------------------------------------------------------
+--Task9----------------------------------------------------------------------
 
 SELECT D.Name, AVG(E.Salary) AS [Averrage Salary]
 FROM Employees E
@@ -66,7 +66,7 @@ INNER JOIN Departments D
 ON E.DepartmentID = D.DepartmentID
 GROUP BY D.Name
 
-Task10---------------------------------------------------------------------
+--Task10---------------------------------------------------------------------
 
 SELECT D.Name AS [Department], T.Name AS [Town], COUNT(E.EmployeeID) AS [Number of employees]
 FROM Employees E
@@ -78,7 +78,7 @@ INNER JOIN Addresses A
 		ON A.TownID = T.TownID
 GROUP BY D.Name, T.Name
 
-Task11---------------------------------------------------------------------
+--Task11---------------------------------------------------------------------
 
 SELECT M.FirstName, M.LastName
 FROM Employees E
@@ -87,24 +87,24 @@ INNER JOIN Employees M
 GROUP BY M.FirstName, M.LastName
 HAVING COUNT(E.EmployeeID) IN (5)
 
-Task12---------------------------------------------------------------------
+--Task12---------------------------------------------------------------------
 
 SELECT E.LastName, ISNULL(M.LastName, '(no manager)') AS [Manager LastName] 
 FROM Employees E
 LEFT OUTER JOIN Employees M
 	ON E.ManagerID = M.EmployeeID
 
-Task13---------------------------------------------------------------------
+--Task13---------------------------------------------------------------------
 
 SELECT LastName
 FROM Employees
 WHERE LEN(LastName) = 5
 
-Task14---------------------------------------------------------------------
+--Task14---------------------------------------------------------------------
 
 SELECT CONVERT(nvarchar, GETDATE(), 104) + ' ' + (SELECT CONVERT(nvarchar, GETDATE(), 114)) as [Current time]
 
-Task15---------------------------------------------------------------------
+--Task15---------------------------------------------------------------------
 
 CREATE TABLE Users (
   UserID int IDENTITY,
@@ -116,7 +116,7 @@ CREATE TABLE Users (
   CHECK (LEN(Password) > 5)
 )
 
-Task16---------------------------------------------------------------------
+--Task16---------------------------------------------------------------------
 
 CREATE VIEW [UsersLoggedInToday] AS 
 
@@ -127,7 +127,7 @@ WHERE DATEPART(YEAR, LastLogin) = DATEPART(YEAR, GETDATE()) AND
 	DATEPART(MONTH, LastLogin) = DATEPART(MONTH, GETDATE()) AND 
 	DATEPART(DAY, LastLogin) = DATEPART(DAY, GETDATE())
 
-Task17---------------------------------------------------------------------
+--Task17---------------------------------------------------------------------
 
 CREATE TABLE Groups (
 	GroupId int IDENTITY,
@@ -135,7 +135,7 @@ CREATE TABLE Groups (
 	CONSTRAINT PK_Groups PRIMARY KEY(GroupID)
 )
 
-Task18---------------------------------------------------------------------
+--Task18---------------------------------------------------------------------
 
 ALTER TABLE Users 
 
@@ -149,7 +149,7 @@ ADD CONSTRAINT FK_Users_Groups
 
 	REFERENCES Groups(GroupID)
 
-Task19---------------------------------------------------------------------
+--Task19---------------------------------------------------------------------
 
 INSERT INTO Users (UserName, Password, FullName) 
 VALUES ('MaryJane', 'kakamara', 'Maria Ivanova')
@@ -169,7 +169,7 @@ VALUES('Qkite kaki')
 INSERT INTO Groups(Name)
 VALUES('Qkite kifli')
 
-Task20---------------------------------------------------------------------
+--Task20---------------------------------------------------------------------
 
 UPDATE Users
 SET GroupId = 1 
@@ -190,7 +190,7 @@ SET Name = 'Pichagite'
 
 WHERE GroupID = 1
 
-Task21---------------------------------------------------------------------
+--Task21---------------------------------------------------------------------
 
 DELETE FROM Users
 WHERE FullName = 'Pesho Peshev'
@@ -198,7 +198,7 @@ WHERE FullName = 'Pesho Peshev'
 DELETE FROM Groups
 WHERE GroupId = 3
 
-Task22---------------------------------------------------------------------
+--Task22---------------------------------------------------------------------
 
 INSERT INTO Users(FullName, UserName, Password) 
 
@@ -211,7 +211,7 @@ SUBSTRING(FirstName, 0, 1) + '' + LOWER(LastName) + '1234' AS Password
 
 FROM Employees
 
-Task23---------------------------------------------------------------------
+--Task23---------------------------------------------------------------------
 
 UPDATE Users
 SET Password = NULL 
@@ -220,13 +220,13 @@ WHERE LastLogin IS NULL
 
 	OR DATEDIFF(day, '2010-03-10 23:59:59.9999999', LastLogin) < 0
 
-Task24---------------------------------------------------------------------
+--Task24---------------------------------------------------------------------
 
 DELETE FROM Users
 
 WHERE Password IS NULL
 
-Task25---------------------------------------------------------------------
+--Task25---------------------------------------------------------------------
 
 SELECT D.Name, E.JobTitle, AVG(E.Salary) AS [Averrage Salary]
 FROM Employees E
@@ -235,7 +235,7 @@ INNER JOIN Departments D
 GROUP BY D.Name, E.JobTitle
 ORDER BY D.Name
 
-Task26---------------------------------------------------------------------
+--Task26---------------------------------------------------------------------
 
 SELECT D.Name, E.JobTitle, MIN(E.Salary) AS [Min Salary], MIN(E.LastName) AS [LastName]
 FROM Employees E
@@ -244,7 +244,7 @@ INNER JOIN Departments D
 GROUP BY D.Name, E.JobTitle
 ORDER BY D.Name
 
-Task27---------------------------------------------------------------------
+--Task27---------------------------------------------------------------------
 
 SELECT TOP 1 T.Name as [Town name], COUNT(*) as [Employees]
 FROM Employees E
@@ -254,7 +254,7 @@ INNER JOIN Addresses A
 		ON A.TownID = T.TownID
 GROUP BY T.Name
 
-Task28---------------------------------------------------------------------
+--Task28---------------------------------------------------------------------
 
 SELECT T.Name AS [Town name], COUNT(*) as [Managers]
 FROM Employees E
@@ -266,17 +266,17 @@ INNER JOIN Addresses A
 		ON A.TownID = T.TownID
 GROUP BY T.Name
 
-Task29---------------------------------------------------------------------
+--Task29---------------------------------------------------------------------
 
 
 
-Task30---------------------------------------------------------------------
+--Task30---------------------------------------------------------------------
 
 
 
-Task31---------------------------------------------------------------------
+--Task31---------------------------------------------------------------------
 
 
 
-Task32---------------------------------------------------------------------
+--Task32---------------------------------------------------------------------
 
